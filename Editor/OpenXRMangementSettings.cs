@@ -32,7 +32,7 @@ namespace UnityEditor.XR.OpenXR
             {
                 new MyLoaderMetadata()
                 {
-                    loaderName = "OpenXR Loader",
+                    loaderName = "iceXR Loader",
                     loaderType = "UnityEngine.XR.OpenXR.OpenXRLoader",
                     supportedBuildTargets = new List<BuildTargetGroup>()
                     {
